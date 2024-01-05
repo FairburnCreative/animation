@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tragic Clown Frame
+* source:	https://sketchfab.com/3d-models/tragic-clown-frame-16f7e085a14746629a900c334ba0e010
+* author:	Marcos Silva (https://sketchfab.com/marcosramone25)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tragic Clown Frame" (https://sketchfab.com/3d-models/tragic-clown-frame-16f7e085a14746629a900c334ba0e010) by Marcos Silva (https://sketchfab.com/marcosramone25) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
