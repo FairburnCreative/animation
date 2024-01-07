@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zombie Crawl
+* source:	https://sketchfab.com/3d-models/zombie-crawl-988d07afce1a4d7895efe9abee3c0f1b
+* author:	Beer Game Maker (https://sketchfab.com/beergamemaker)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zombie Crawl" (https://sketchfab.com/3d-models/zombie-crawl-988d07afce1a4d7895efe9abee3c0f1b) by Beer Game Maker (https://sketchfab.com/beergamemaker) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
