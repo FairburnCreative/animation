@@ -1,0 +1,11 @@
+Model Information:
+* title:	Real-Time Chucky
+* source:	https://sketchfab.com/3d-models/real-time-chucky-0f9b68ca815a4970854745a9f43e2130
+* author:	Leopoldo Rojas (https://sketchfab.com/HushDamacy)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Real-Time Chucky" (https://sketchfab.com/3d-models/real-time-chucky-0f9b68ca815a4970854745a9f43e2130) by Leopoldo Rojas (https://sketchfab.com/HushDamacy) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
